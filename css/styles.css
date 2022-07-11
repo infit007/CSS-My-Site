@@ -22,7 +22,7 @@ body{
 
   }
   h2{
-    margin-bottom: 110px;
+    margin-bottom: 70px;
     font-size: 2.5rem;
 
     font-family: 'Montserrat', sans-serif;
@@ -44,6 +44,10 @@ body{
     color:#EAF6F6;
 
   }
+  .contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
   .contact-me{
     text-align: center;
 
